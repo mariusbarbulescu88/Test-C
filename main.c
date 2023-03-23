@@ -3,6 +3,10 @@
 #include <time.h>
 #include <windows.h>
 
+
+//aici incepe aplicatia
+
+
 void afisareJoc(char* arrayJoc, int nrCaractere);
 void convUpper(char* litera);
 int aiCastigat(char* tablaJoc, int lungimeCuvant);
